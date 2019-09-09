@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MJC_MonoGameBasics", "MJC_MonoGameBasics\MJC_MonoGameBasics.csproj", "{30D58EAB-491F-4793-AEF3-89B3F965A958}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30D58EAB-491F-4793-AEF3-89B3F965A958}.Debug|x86.ActiveCfg = Debug|x86
+		{30D58EAB-491F-4793-AEF3-89B3F965A958}.Debug|x86.Build.0 = Debug|x86
+		{30D58EAB-491F-4793-AEF3-89B3F965A958}.Release|x86.ActiveCfg = Release|x86
+		{30D58EAB-491F-4793-AEF3-89B3F965A958}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0876C4A3-21AA-4E41-837B-CF0A76969E6D}
+	EndGlobalSection
+EndGlobal
